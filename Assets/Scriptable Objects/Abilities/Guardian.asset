@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36cb0edb7c9bd6e49bd8bfdd2f9cfb82, type: 3}
+  m_Name: Guardian
+  m_EditorClassIdentifier: 
+  name: Guardian
+  cooldownTime: 3
+  activeTime: 5
+  spinSpeed: 200
+  radius: 5
+  damageDealer: 10
+  quantity: 5
+  guardianPrefab: {fileID: 7817744083740233955, guid: 8ed9c8450b7e4f446a115f659de96926, type: 3}
